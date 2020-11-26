@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 7acc8ab7547c56342a5d08efb76f7dae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4225801426227301047
+    second: sprites_aguila_copia-original_0
+  - first:
+      213: 1196095474714038392
+    second: sprites_aguila_copia-original_1
+  - first:
+      213: 7503127236786682483
+    second: sprites_aguila_copia-original_2
+  - first:
+      213: -2355086078254113135
+    second: sprites_aguila_copia-original_3
+  - first:
+      213: 5410579199966859131
+    second: sprites_aguila_copia-original_4
+  - first:
+      213: 2096988231135306634
+    second: sprites_aguila_copia-original_5
+  - first:
+      213: -3942889495569208293
+    second: sprites_aguila_copia-original_6
+  - first:
+      213: 667270395726624096
+    second: sprites_aguila_copia-original_7
+  - first:
+      213: 5639193813854269783
+    second: sprites_aguila_copia-original_8
+  - first:
+      213: -3074447924414616072
+    second: sprites_aguila_copia-original_9
+  - first:
+      213: 7711776448410190477
+    second: sprites_aguila_copia-original_10
+  - first:
+      213: 5676634801715375617
+    second: sprites_aguila_copia-original_11
+  - first:
+      213: -8852014035905713272
+    second: sprites_aguila_copia-original_12
+  - first:
+      213: -3095997033563228671
+    second: sprites_aguila_copia-original_13
+  - first:
+      213: -3441061380321554236
+    second: sprites_aguila_copia-original_14
+  - first:
+      213: -7166987956467519746
+    second: sprites_aguila_copia-original_15
+  - first:
+      213: -6280484819203351294
+    second: Aguila_0
+  - first:
+      213: -2060331828561574352
+    second: Aguila_1
+  - first:
+      213: 9179714214848766547
+    second: Aguila_2
+  - first:
+      213: -4944764778793941171
+    second: Aguila_3
+  - first:
+      213: -3204637162523680621
+    second: Aguila_4
+  - first:
+      213: 6973691534422595885
+    second: Aguila_5
+  - first:
+      213: 4647861837352248580
+    second: Aguila_6
+  - first:
+      213: -5306142925794251046
+    second: Aguila_7
+  - first:
+      213: 6571716846293407366
+    second: Aguila_8
+  - first:
+      213: 3186704406664350701
+    second: Aguila_9
+  - first:
+      213: -2589959757957080107
+    second: Aguila_10
+  - first:
+      213: 4465012241611504185
+    second: Aguila_11
+  - first:
+      213: 2134109900582517280
+    second: Aguila_12
+  - first:
+      213: -3838160718840810099
+    second: Aguila_13
+  - first:
+      213: -2037782216724218323
+    second: Aguila_14
+  - first:
+      213: -1326854317147969399
+    second: Aguila_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aguila_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 663
+        width: 135
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9626155c37d8a0800000000000000
+      internalID: -6280484819203351294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 663
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03608273e1b3863e0800000000000000
+      internalID: -2060331828561574352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 623
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522aa33175e46f70800000000000000
+      internalID: 9179714214848766547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 663
+        width: 135
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cf16d1aaa06bb0800000000000000
+      internalID: -4944764778793941171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 459
+        width: 135
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a2c5ca77d683d0800000000000000
+      internalID: -3204637162523680621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 418
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29586a908787c060800000000000000
+      internalID: 6973691534422595885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 459
+        width: 135
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a97437b5808040800000000000000
+      internalID: 4647861837352248580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 459
+        width: 135
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee4944f1bcc56b0800000000000000
+      internalID: -5306142925794251046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d4cb37ad633b50800000000000000
+      internalID: 6571716846293407366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 262
+        width: 204
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb866326c2793c20800000000000000
+      internalID: 3186704406664350701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 258
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5964825d9e0cd0800000000000000
+      internalID: -2589959757957080107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 262
+        width: 153
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a36032af8e6fd30800000000000000
+      internalID: 4465012241611504185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 54
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7dd7c5a1ed9d10800000000000000
+      internalID: 2134109900582517280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 54
+        width: 203
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b2a2692d1cbac0800000000000000
+      internalID: -3838160718840810099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 54
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7b8aded758b3e0800000000000000
+      internalID: -2037782216724218323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aguila_15
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 54
+        width: 161
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a3bd4701169de0800000000000000
+      internalID: -1326854317147969399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
